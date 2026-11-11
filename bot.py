@@ -4,7 +4,7 @@ from flask import Flask
 from threading import Thread
 import os
 
-TOKEN = "ISI_TOKEN_BARU_LU_DISINI"
+TOKEN = "9141027270:AAFhWE-cJTlu801O3y9U2EEIw8oJDUTMxIM"
 CHANNEL = "@kiranaachannel"
 
 bot = telebot.TeleBot(TOKEN)
